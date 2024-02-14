@@ -14,6 +14,8 @@ Do you want to know more about me?
 
 🧠 [Smart Monday](urlab.be/events/talks) speaker supervisor for [URLab](https://github.com/UrLab) (Student Hackerspace of ULB).
 
+🇪🇺 [CIVIS](civis.eu/en) ambassador for AMU since 2023. Promoting European Alliance CIVIS and participating to global universities meeting about the Future of the Alliance. 
+
 🔭 Making [research](https://github.com/tsua0002/blockchain_research) about Blockchain with the goal to create a PhD for next year about Blokchain technology.
 
 💭 Today, blockchain technology is hyped and not a lot of qualitative academic research exist. **I want to change it!** I want to participate into the next wave of **academic and fundamental research about Blockchain**. Blockchain for now, is often considered and regarded from its cryptographic components. But the technology can allow much more!! Cf what I do.    

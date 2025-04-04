@@ -1,24 +1,32 @@
 ### Hi there 👋
 
-Do you want to know more about me?
 
-👇
+What I'm doing now 👇
 
-🧑‍🎓 Student in Computer Sciences (currently Master 1) [Aix-Marseille Université (AMU)](https://www.univ-amu.fr/) and [Université libre de Bruxelles (ULB)](https://github.com/ulb).
+👷 Building agents and work with #MCP (Model Context Protocol) to implement complex agentic architecture
+
+📝 Writing Bitcoin Tech news and French translation on my LinkedIn
+
+🤝 Steward and coder/vibe-coder for [DAO Brussels](https://github.com/daobrussels) (Experiment DAO technology together [manifesto](https://dao.brussels/manifesto)).
+
+🔭 Making [research](https://github.com/tsua0002/blockchain_research) about Blockchain, focus on Bitcoin since 2 years with the goal to craft a serious PhD topic about Bitcoin Inscriptions. 
+
+💭 Today, Bitcoin is at the core thinking of more and more processes but not a lot of people are learning and doing research about it, me I do. Do your homework, Read The Fucking Manual.
+
+
+👉 Previously
+
+🧑‍🎓 Student in Computer Sciences (Master 1) [Aix-Marseille Université (AMU)](https://www.univ-amu.fr/) and [Université libre de Bruxelles (ULB)](https://github.com/ulb).
 
 📜 Master : Mathématiques & Applications (Mention préparation à l'agrégation) at Aix-Marseille Université. 
 
 🧑‍💻 Core Team Developer for [Juneo](https://github.com/Juneo-io) (a new blockchain forked from Avalanche).
 
-🤝 Steward and coder for [DAO Brussels](https://github.com/daobrussels) (Experiment DAO technology together [manifesto](https://dao.brussels/manifesto)).
-
 🧠 [Smart Monday](urlab.be/events/talks) speaker supervisor for [URLab](https://github.com/UrLab) (Student Hackerspace of ULB).
 
 🇪🇺 [CIVIS](civis.eu/en) ambassador for AMU since 2023. Promoting European Alliance CIVIS and participating to global universities meeting about the Future of the Alliance. 
 
-🔭 Making [research](https://github.com/tsua0002/blockchain_research) about Blockchain with the goal to create a PhD for next year about Blokchain technology.
-
-💭 Today, blockchain technology is hyped and not a lot of qualitative academic research exist. **I want to change it!** I want to participate into the next wave of **academic and fundamental research about Blockchain**. Blockchain for now, is often considered and regarded from its cryptographic components. But the technology can allow much more!! Cf what I do.    
+ 
 👉 Use cases: data, automated transactions, communication (with open ledger as Bitcoin or Ethereum), votes and much more. This shouldn't be considered by academic research? 
 
 📫 [Mail 📩](mailto:thom.suau@orange.fr?subject=Contact) [LinkedIn](https://www.linkedin.com/in/thomas-suau-92932889/) [Twitter | X](https://twitter.com/ThomasSuau)

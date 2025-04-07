@@ -40,7 +40,7 @@ Let’s build the next chapter of open, sovereign computation.
 - 🎓 **Computer Science (M1)** – [Aix-Marseille Université (AMU)](https://www.univ-amu.fr/) & [Université libre de Bruxelles (ULB)](https://github.com/ulb)  
 - 📜 **Mathematics & Applications** (Master’s in Education & Research) – AMU  
 - 🧑‍💻 **CTO at Tokenomeme** – Led infrastructure and GCP-based deployment of the Tokenomeme API  
-- 👷‍♂️ Core developer at [Juneo](https://github.com/Juneo-io), a blockchain fork of Avalanche  
+- 👷‍♂️ Core developer at [Juneo](https://github.com/Juneo-io), a blockchain fork of Avalanche ([juneojs-examples](https://github.com/tsua0002/juneojs-examples))
 - 🧑‍🏫 Speaker Supervisor – [URLab](https://github.com/UrLab), ULB Hackerspace  
 - 🌍 [CIVIS](https://civis.eu/en) European University Alliance Ambassador for AMU  
 - 🤝 Steward & contributor at [DAO Brussels](https://github.com/daobrussels) ([Manifesto](https://dao.brussels/manifesto))

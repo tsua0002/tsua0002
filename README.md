@@ -15,7 +15,7 @@ I’m a researcher, builder, speaker, and advisor focused on **Bitcoin**, **AI A
 
 ### 🤖 AI Agents & Model Context Protocol (MCP)
 - Building autonomous agents with a focus on Multi-agents architecture. *What is the nature of such objects? Which space is it creating? How to think the security into such systems?*
-- Deploying agents across **X (Twitter)**, **Discord**, and **Bitcoin** for community management and wallet tracking using [Cypher-swarm](https://github.com/KingBootoshi/cypher-swarm) and [lasereyes](https://)
+- Deploying agents across **X (Twitter)**, **Discord**, and **Bitcoin** for community management and wallet tracking using [Cypher-swarm](https://github.com/KingBootoshi/cypher-swarm) and [lasereyes](https://lasereyes.build)
 - Exploring **swarm intelligence** and **mixture-of-agent architectures** to support complex reasoning and coordination systems.
 
 ---

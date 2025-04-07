@@ -9,13 +9,13 @@ I’m a researcher, builder, speaker, and advisor focused on **Bitcoin**, **AI A
 ## 🔬 Current Focus
 
 ### 🧠 Bitcoin Research & Blockchain Infrastructure
-- In-depth research on **Bitcoin Inscriptions**, **Ordinals**, and **protocol evolution**.
+- In-depth research on **Bitcoin Inscriptions**, **Ordinals**, and **protocol evolution**.[research topic openning]()
 - Maintaining a [Bitcoin research repository](https://github.com/tsua0002/bitcoin_research) focused on Bitcoin’s socio-technical dynamics.
 - Publishing **technical insights** and **French translations** of Bitcoin-focused content via [LinkedIn](https://www.linkedin.com/in/thomas-suau-92932889/).
 
 ### 🤖 AI Agents & Model Context Protocol (MCP)
-- Building autonomous agents with a focus on **Model Context Protocol** for agentic system design.
-- Deploying agents across **X (Twitter)**, **Discord**, and **Bitcoin** for community management and treasury tracking using [ElizaOS](https://github.com/KingBootoshi/elizaos) and [Cypher-swarm](https://github.com/KingBootoshi/cypher-swarm).
+- Building autonomous agents with a focus on Multi-agents architecture. *What is the nature of such objects? Which space is it creating? How to think the security into such systems?*
+- Deploying agents across **X (Twitter)**, **Discord**, and **Bitcoin** for community management and wallet tracking using [Cypher-swarm](https://github.com/KingBootoshi/cypher-swarm) and [lasereyes](https://)
 - Exploring **swarm intelligence** and **mixture-of-agent architectures** to support complex reasoning and coordination systems.
 
 ---

@@ -6,32 +6,23 @@ I’m a researcher, builder, speaker, and advisor focused on **Bitcoin**, **AI A
 
 ---
 
-## 🔬 Current Focus
+## Current Focus
 
-### 🧠 Bitcoin Research & Blockchain Infrastructure
-- In-depth research on **Bitcoin Inscriptions**, **Ordinals**, and **protocol evolution**.[research topic openning]()
-- Maintaining a [Bitcoin research repository](https://github.com/tsua0002/bitcoin_research) focused on Bitcoin’s socio-technical dynamics.
-- Publishing **technical insights** and **French translations** of Bitcoin-focused content via [LinkedIn](https://www.linkedin.com/in/thomas-suau-92932889/).
-
-### 🤖 AI Agents & Model Context Protocol (MCP)
-- Building autonomous agents with a focus on Multi-agents architecture. *What is the nature of such objects? Which space is it creating? How to think the security into such systems?*
-- Deploying agents across **X (Twitter)**, **Discord**, and **Bitcoin** for community management and wallet tracking using [Cypher-swarm](https://github.com/KingBootoshi/cypher-swarm) and [lasereyes](https://lasereyes.build)
-- Exploring **swarm intelligence** and **mixture-of-agent architectures** to support complex reasoning and coordination systems.
+**Metaprotocols on Bitcoin**, No EVM! No Ethereum!
 
 ---
 
-## 👨‍💻 Open to Opportunities
+## Some experiences
 
-I'm currently looking for:
-- 🧠 **Bitcoin-first missions** focused on research, infrastructure, or protocol-level development  
-- 🧑‍🏫 **Teaching or mentoring roles** in computer science, blockchain, or mathematics  
-- 🧩 **Advisory roles** for Bitcoin-focused startups, protocols, or research collectives  
-- 🤖 Select **R&D roles in agentic systems**, especially where they intersect with Bitcoin infrastructure
+### 🧠 Bitcoin Research & Blockchain Infrastructure
+- In-depth research on **Bitcoin Inscriptions**, **Ordinals**, and **protocol evolution**.[research topic openning](https://github.com/tsua0002/blockchain_research)
+- Maintained a [Bitcoin research repository](https://github.com/tsua0002/bitcoin_research) focused on Bitcoin’s socio-technical dynamics.
+- Publishing **technical insights** and **French translations** of Bitcoin-focused content via [LinkedIn](https://www.linkedin.com/in/thomas-suau-92932889/).
 
-Let’s build the next chapter of open, sovereign computation.
-
-📫 [Email Me](mailto:thom.suau@orange.fr?subject=Contact)  
-🔗 [LinkedIn](https://www.linkedin.com/in/thomas-suau-92932889/) | [X / Twitter](https://twitter.com/ThomasSuau)
+### 🤖 AI Agents & Model Context Protocol (MCP)
+- Built autonomous agents with a focus on Multi-agents architecture. *What is the nature of such objects? Which space is it creating? How to think the security into such systems?*
+- Deployed agents across **X (Twitter)**, **Discord**, and **Bitcoin** for community management and wallet tracking using custom technology and [lasereyes](https://lasereyes.build)
+- Explored **swarm intelligence** and **mixture-of-agent architectures** to support complex reasoning and coordination systems.
 
 ---
 
@@ -40,8 +31,8 @@ Let’s build the next chapter of open, sovereign computation.
 - 🎓 **Computer Science (M1)** – [Aix-Marseille Université (AMU)](https://www.univ-amu.fr/) & [Université libre de Bruxelles (ULB)](https://github.com/ulb)  
 - 📜 **Mathematics & Applications** (Master’s in Education & Research) – AMU  
 - 🧑‍💻 **CTO at Tokenomeme** – Led infrastructure and GCP-based deployment of the Tokenomeme API  
-- 👷‍♂️ Core developer at [Juneo](https://github.com/Juneo-io), a blockchain fork of Avalanche ([juneojs-examples](https://github.com/tsua0002/juneojs-examples))
-- 🧑‍🏫 Speaker Supervisor – [URLab](https://github.com/UrLab), ULB Hackerspace  
+- 👷‍♂️ Blockchain Developer at [Juneo](https://github.com/Juneo-io), Avalanche fork ([juneojs-examples](https://github.com/tsua0002/juneojs-examples))
+- 🧑‍🏫 Speaker Supervisor – [URLab](https://github.com/UrLab), ULB Hackerspace
 - 🌍 [CIVIS](https://civis.eu/en) European University Alliance Ambassador for AMU  
 - 🤝 Steward & contributor at [DAO Brussels](https://github.com/daobrussels) ([Manifesto](https://dao.brussels/manifesto))
 
@@ -75,7 +66,7 @@ I see the **Bitcoin protocol** as one of the most important inventions of our ti
 
 Bitcoin is not just the beginning of digital money — it is the start of a broader transformation in how we verify and transmit value. Its resilience and composability invite us to explore use cases far beyond speculation.
 
-**Autonomous agents**, when built to interact with Bitcoin, can unlock **dormant layers of functionality** that are too technically complex or rigid for average users to leverage today. Combining Bitcoin’s permanence with agents' flexibility creates new frontiers in permissionless coordination, economic expression, and long-term data assurance.
+**Autonomous agents**, when built to interact with Bitcoin, can unlock **dormant layers of functionality** that are too complex or rigid for average users to leverage today. Combining Bitcoin’s permanence with agents' flexibility creates new frontiers in permissionless coordination, economic expression, and long-term data assurance.
 
 ---
 
@@ -89,6 +80,8 @@ Bitcoin is not just the beginning of digital money — it is the start of a broa
 - Autonomous reasoning protocols powered by **Model Context Protocol (MCP)**  
 - Swarm intelligence and **mixture-of-agent architectures** for distributed inference  
 - Active research on the **state-of-the-art in Agentics**, with applications in open infrastructure and digital sovereignty
+
+NO EVM! NO ETHEREUM!
 
 ---
 

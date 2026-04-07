@@ -1,91 +1,67 @@
-# 👋 Hi, I'm Thomas Suau
+# Thomas Suau
 
-## 🚀 About Me
-I am a research engineer focused on the intersection of **Applied Category Theory** and **Bitcoin Script**.
+Research engineer at the intersection of **applied category theory**, **Bitcoin (UTXO / Script)**, and **coordination systems** (protocols, agents).
 
-**Research Focus:**
-* **Bridging the Semantic Gap:** Developing categorical frameworks to ensure the integrity of Bitcoin meta-protocols.
-* **Formal Ledger Structures:** Extending Nester’s (2021) monoidal models to support state-bound assets.
-* **Verified Compilers:** Building static analysis pipelines for high-level introspective languages to prevent stack and liveness vulnerabilities.
+**Themes:** closing the semantic gap between off-chain intent and on-chain truth • formal / auditable meta-protocols • UTXO-native design (security through structure, not VM complexity) • **relational / geometric semantics** for **LLMs** and for **protocol objects** (algebraic topology, differential geometry, Galois-theoretic angles) • **PI coding agents** in the research loop.
+
+**Mathematical semantics:** I use **algebraic topology**, **differential geometry**, and **Galois-theoretic** perspectives to study **semantic structure**—both for **LLMs** (compositionality, limits, and obstructions in high-dimensional learned systems) and for **Bitcoin transactions** as rigid, auditable state transitions. The parallel is intentional: both settings benefit from **invariant-centric** explanations and explicit structure, with Bitcoin as the anchored reference case and LLMs as the open, high-dimensional one.
 
 ---
 
-## 🧪 Selected Research & Experiences
+## Flagship work
 
-### Bitcoin Research & Protocol Engineering
-*Focused on the formalization of data integrity and structural consistency within the UTXO model.*
+**[BTSL — Bitcoin Transaction Schema Language](https://github.com/tsua0002/btsl-standard)** — declarative “policy-as-code” layer on top of **BIP174/BIP370 (PSBT)**: schemas describe expected structure, `calc` + `ASSERT` encode economic invariants, external Checkers get an explicit predicate set for zero-trust replay.  
 
-- **Formal Analysis of Bitcoin Metaprotocols:** In-depth research on the evolution of **Inscriptions** and **Ordinals**. Developed a theoretical framework to analyze the "Semantic Gap" in current L2 implementations. [[Formal metaprotocol Semantics]](https://github.com/tsua0002/formal-metaprotocol-semantics)
-- **Socio-Technical Synthesis:** Maintainer of a [Bitcoin Research Repository](https://github.com/tsua0002/bitcoin_research) dedicated to the study of Bitcoin’s socio-technical dynamics, focusing on permanence and censorship-resistance.
-- **Scientific Communication:** Publishing technical insights and high-fidelity **French translations** of seminal Bitcoin papers and research to foster the local developer ecosystem via [LinkedIn](www.linkedin.com/in/thomas-s-92932889).
+**Release (normative baseline):** [v1.0.0 — Reference Specification [FINAL]](https://github.com/tsua0002/btsl-standard/releases/tag/v1.0.0) — spec §9.3.1 checker predicates (**S-1…A-5**), full **BTSL_ERR_00…13**, implementation guide + checker annex.
 
-### Sovereign AI Agents & Autonomous Reasoning
-*Exploring the intersection of Mixture-of-Agents (MoA) and decentralized coordination protocols.*
-
-- **Multi-Agent Architectures:** Built and architected autonomous systems using the **Model Context Protocol (MCP)**. 
-  - _Research Inquiry:_ What is the ontological nature of such objects? What new coordination spaces do they create? How can we embed security and sovereignity into agentic systems?
-- **Agentic Decentralized Environments:** Experimental deployment of reasoning-capable agents across **X (Twitter)**, **Discord**, and **Bitcoin** for automated community management and wallet tracking using [lasereyes](https://lasereyes.build).
-- **Swarm Intelligence & Distributed Inference:** Explored **Mixture-of-Agent (MoA)** architectures to support complex reasoning tasks, aiming to create distributed inference systems that rely on Bitcoin as a final layer of truth.
+**Live explorer:** [BTSL Playground](https://btsl-playground.vercel.app/) (Maker + Validator paths; implementation is tracked to the FINAL spec over time).
 
 ---
 
-## 🧩 Background
+## Selected repositories & writing
 
-- 🎓 **Computer Science (M1)** – [Aix-Marseille Université (AMU)](https://www.univ-amu.fr/) & [Université libre de Bruxelles (ULB)](https://github.com/ulb)  
-- 📜 **Mathematics & Applications** (Master’s in Education & Research) – AMU  
-- 🧑‍💻 **CTO at Tokenomeme** – Led infrastructure and GCP-based deployment of the Tokenomeme API  
-- 👷‍♂️ Blockchain Developer at [Juneo](https://github.com/Juneo-io), Avalanche fork ([juneojs-examples](https://github.com/tsua0002/juneojs-examples))
-- 🧑‍🏫 Speaker Supervisor – [URLab](https://github.com/UrLab), ULB Hackerspace
-- 🌍 [CIVIS](https://civis.eu/en) European University Alliance Ambassador for AMU  
-- 🤝 Steward & contributor at [DAO Brussels](https://github.com/daobrussels) ([Manifesto](https://dao.brussels/manifesto))
+| Focus | Link |
+|------|------|
+| Formal semantics for Bitcoin metaprotocols (Ordinals / Inscriptions, semantic-gap framing) | [formal-metaprotocol-semantics](https://github.com/tsua0002/formal-metaprotocol-semantics) |
+| Curated Bitcoin research notes (socio-technical layer, permanence, censorship resistance) | [bitcoin_research](https://github.com/tsua0002/bitcoin_research) |
+| Technical posts & **French translations** of Bitcoin research (ecosystem outreach) | [LinkedIn](https://www.linkedin.com/in/thomas-s-92932889/) |
 
 ---
 
-## 🛠️ Tech Stack & Research Tools
+## Agents & decentralized coordination (research)
 
-**Formal Methods & Research**  
+Experimentation with **Model Context Protocol (MCP)**-driven tool use, multi-agent setups, and “sovereign” agent design—research questions: coordination surfaces, trust boundaries, and anchoring assertions in UTXO-time rather than mutable off-chain state. Exploratory deployments across social surfaces and Bitcoin-adjacent tooling (e.g. [lasereyes](https://lasereyes.build)).
+
+---
+
+## Background (compact)
+
+- **Education:** Computer Science (M1) — [AMU](https://www.univ-amu.fr/) & [ULB](https://www.ulb.be/) • **Mathematics & Applications** (Master, research & teaching track) — AMU  
+- **Industry:** CTO (Tokenomeme, infra / GCP) • Blockchain dev — [Juneo](https://github.com/Juneo-io) (Avalanche-class fork; e.g. [juneojs-examples](https://github.com/tsua0002/juneojs-examples))  
+- **Community:** Speaker supervisor — [UrLab](https://github.com/UrLab) (ULB hackerspace) • [CIVIS](https://civis.eu/en) ambassador (AMU) • steward / contributor — [DAO Brussels](https://github.com/daobrussels) ([manifesto](https://dao.brussels/manifesto))
+
+---
+
+## Stack & research tools
+
+**Formal methods**  
 [![Agda](https://img.shields.io/badge/Agda-555555?style=for-the-badge&logo=haskell&logoColor=white)]() [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)]() [![Category Theory](https://img.shields.io/badge/Applied_Category_Theory-FF69B4?style=for-the-badge)]()
 
-**Core Development**  
-[![Rust](https://img.shields.io/badge/rust-%23E32F26.svg?style=for-the-badge&logo=rust&logoColor=white)]() [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]() [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)]()
+**Core dev**  
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)]() [![Rust](https://img.shields.io/badge/rust-%23DEA584.svg?style=for-the-badge&logo=rust&logoColor=black)]() [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]() [![PI coding agents](https://img.shields.io/badge/PI_coding_agents-6f42c1?style=for-the-badge)]()
 
-**Bitcoin & Protocol Engineering**  
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-7c7c7c?style=for-the-badge&logo=bitcoin&logoColor=ff9900)]() [![Taproot](https://img.shields.io/badge/Taproot_%2F_MAST-orange?style=for-the-badge)]() [![Simplicity](https://img.shields.io/badge/Simplicity-blue?style=for-the-badge)]()
+**Bitcoin / PSBT**  
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-F79327?style=for-the-badge&logo=bitcoin&logoColor=white)]() [![PSBT](https://img.shields.io/badge/PSBT_BIP174_/_370-333?style=for-the-badge)]() [![Taproot](https://img.shields.io/badge/Taproot_%2F_MAST-E89933?style=for-the-badge&logo=bitcoin&logoColor=white)]()
 
-**Environments & Workflow**  
-[![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)]() [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)]() [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)]()
-
----
-
-## 🧭 Why Bitcoin Matters
-
-> _"Bitcoin is not just a financial tool — it's a paradigm shift in how we think about **trust**, **coordination**, and **digital permanence**."_
-
-I see the **Bitcoin protocol** as a **machine for civilizational continuity**. It provides the rigid, immutable foundation of truth that the digital age lacks. While its core is intentionally resistant to change, this very rigidity makes it the only reliable anchor for long-term coordination, capable of surviving political regimes, infrastructure decay, and human error.
-
-My research focuses on the **duality between Bitcoin's rigid consensus and the flexibility of autonomous agents**. I believe that agents, powered by reasoning protocols, can act as the "semantic layer" that unlocks dormant layers of functionality. By combining Bitcoin’s permanence with agents' flexibility, we can create new frontiers in permissionless economic expression and long-term data assurance without compromising the base layer's security.
+**Workflow**  
+[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)]() [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]() [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)]()
 
 ---
 
-## 📚 Use Cases I Explore
+## Conviction
 
-### Core Protocol & Formal Security
-- **Semantic State-Binding:** Resolving the gap between off-chain intent and on-chain validation through categorical frameworks.
-- **Introspective Covenants:** Researching the evolution of Bitcoin scripting via **Covenants**, **BitVM**, and **Simplicity**.
-- **Structural Integrity:** Ensuring data integrity and reproducibility for scientific and institutional research.
-- **Trust-Minimized Governance:** Architecting decentralized voting systems that rely on UTXO-based permanence.
-
-### Agentic Intelligence & Digital Sovereignty
-- **Autonomous Reasoning:** Leveraging the **Model Context Protocol (MCP)** to build verifiably sovereign agents.
-- **Distributed Inference:** Exploring swarm intelligence and **mixture-of-agent** (MoA) architectures for decentralized reasoning.
-- **Sovereign Agentics:** Developing agents capable of autonomous economic coordination on the Bitcoin layer.
+Bitcoin’s consensus layer is a **long-horizon anchor for truth and coordination**. I work on **explicit semantics and verifiable artifacts** (schemas, proofs, static pipelines) so that things built *above* that anchor stay honest when humans and agents automate the middle layers—without smuggling account-model assumptions back into UTXO-native designs.
 
 ---
 
-## 🛡️ Architectural Conviction
-
-My research and developments are **strictly UTXO-native**. I focus on the non-Turing complete security model of Bitcoin to avoid the systemic risks, state bloat, and technical debt inherent in account-based virtual machines (EVM/Ethereum). I believe in **security through structure**, not through complexity.
-
----
-
-_Thanks for stopping by! Feel free to connect and share thoughts around Bitcoin, Formal Methods, or Agentic AI. I am always open to exchanging ideas with fellow researchers and developers._
+_Open to collaboration and critique on Bitcoin formalization, PSBT / BTSL, category-theoretic protocol semantics, mathematical semantics of LLMs, and agent coordination._

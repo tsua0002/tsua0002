@@ -30,7 +30,12 @@ AI solution architect and research engineer. I work on **agentic systems**, **fo
 
 ## Agents & coordination (research)
 
-Experimentation with **Model Context Protocol (MCP)** tool use, multi-agent setups, and sovereign agent design. Research questions: coordination surfaces, trust boundaries, and anchoring assertions in verifiable state rather than mutable off-chain records.
+Two agentic systems in production, embodying two orchestration philosophies:
+
+- **Code The Law pipeline**: a daily autonomous routine driven by declarative instruction files (BOOT.md), decomposed into dedicated tasks through to deployment. Instruction-as-code orchestration.
+- **p2p-mom** (Prompt2Production): a Slack-driven blueprint runner built on a fork of [pi](https://github.com/badlogic/pi-mono), Mario Zechner's open-source coding agent. Inspired by Stripe's internal agent workflows, with deliberately higher autonomy calibrated to a lower risk profile: one run takes a blueprint through to a complete project, typically a PR plus a Vercel deployment. Private for now.
+
+Broader experimentation with **Model Context Protocol (MCP)** tool use, multi-agent setups, and sovereign agent design. Research questions: coordination surfaces, trust boundaries, autonomy calibration against risk profile, and anchoring assertions in verifiable state rather than mutable off-chain records.
 
 ---
 

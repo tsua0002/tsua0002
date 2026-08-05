@@ -21,8 +21,8 @@ AI solution architect and research engineer. I work on **agentic systems**, **fo
 
 | Focus | Link |
 |------|------|
-| Applied AI writing: tools in LLMs, a taxonomy of agentic workflows, *Intelligere* (essay on agentic AI) | [LinkedIn](https://www.linkedin.com/in/thomas-s-92932889/) |
-| Design note: a domain-specialized LLM (corpus construction, open-weights fine-tuning, tool layer, evaluation) | [DelvingBitcoin](https://delvingbitcoin.org) |
+| Applied AI writing: tools in LLMs, a taxonomy of agentic workflows, *Intelligere* (essay on agentic AI) | [LinkedIn](https://www.linkedin.com/in/thomas-suau-92932889?) |
+| Design note: a domain-specialized LLM (corpus construction, open-weights fine-tuning, tool layer, evaluation) | [DelvingBitcoin](https://delvingbitcoin.org/u/tsua00021/summary) |
 | Formal semantics for metaprotocols (semantic-gap framing) | [formal-metaprotocol-semantics](https://github.com/tsua0002/formal-metaprotocol-semantics) |
 | Curated research notes (socio-technical layer, permanence, censorship resistance) | [bitcoin_research](https://github.com/tsua0002/bitcoin_research) |
 
